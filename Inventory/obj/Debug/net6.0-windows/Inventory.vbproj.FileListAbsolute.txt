@@ -1,0 +1,17 @@
+C:\Users\bebi\Desktop\Inventory\bin\Debug\net6.0-windows\Inventory.exe
+C:\Users\bebi\Desktop\Inventory\bin\Debug\net6.0-windows\Inventory.deps.json
+C:\Users\bebi\Desktop\Inventory\bin\Debug\net6.0-windows\Inventory.runtimeconfig.json
+C:\Users\bebi\Desktop\Inventory\bin\Debug\net6.0-windows\Inventory.dll
+C:\Users\bebi\Desktop\Inventory\bin\Debug\net6.0-windows\Inventory.pdb
+C:\Users\bebi\Desktop\Inventory\obj\Debug\net6.0-windows\Inventory.vbproj.AssemblyReference.cache
+C:\Users\bebi\Desktop\Inventory\obj\Debug\net6.0-windows\Inventory.Form1.resources
+C:\Users\bebi\Desktop\Inventory\obj\Debug\net6.0-windows\Inventory.vbproj.GenerateResource.cache
+C:\Users\bebi\Desktop\Inventory\obj\Debug\net6.0-windows\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bebi\Desktop\Inventory\obj\Debug\net6.0-windows\Inventory.AssemblyInfoInputs.cache
+C:\Users\bebi\Desktop\Inventory\obj\Debug\net6.0-windows\Inventory.AssemblyInfo.vb
+C:\Users\bebi\Desktop\Inventory\obj\Debug\net6.0-windows\Inventory.vbproj.CoreCompileInputs.cache
+C:\Users\bebi\Desktop\Inventory\obj\Debug\net6.0-windows\Inventory.dll
+C:\Users\bebi\Desktop\Inventory\obj\Debug\net6.0-windows\refint\Inventory.dll
+C:\Users\bebi\Desktop\Inventory\obj\Debug\net6.0-windows\Inventory.pdb
+C:\Users\bebi\Desktop\Inventory\obj\Debug\net6.0-windows\Inventory.genruntimeconfig.cache
+C:\Users\bebi\Desktop\Inventory\obj\Debug\net6.0-windows\ref\Inventory.dll
